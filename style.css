@@ -315,9 +315,11 @@ header and navbar style start
             }
             .hero-image img{
                 width: 80%;
+                height: 90%;
             }
             .hero-image .hero-image-overlay{
                 width: 90%;
+                height: 50%;
                 left: 0;
 
             }
